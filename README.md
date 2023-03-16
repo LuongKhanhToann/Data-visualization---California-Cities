@@ -1,1 +1,1 @@
-# Project: Data visualazation - California Cities
+# Project: Data visualization - California Cities
